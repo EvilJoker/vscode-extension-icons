@@ -1,9 +1,9 @@
 {
-  "name": "vscode-buildin-icons",
-  "displayName": "vscode-buildin-icons",
+  "name": "vscode-icons-buildin",
+  "displayName": "vscode-icons-buildin",
   "description": "easy to find VSCode build-in icons ",
   "icon" : "images/vscode.png",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "AshtonSun",
   "engines": {
     "vscode": "^1.88.0"
