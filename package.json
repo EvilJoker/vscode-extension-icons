@@ -1,9 +1,9 @@
 {
-  "name": "icons",
+  "name": "vscode-buildin-icons",
   "displayName": "vscode-buildin-icons",
   "description": "easy to find VSCode build-in icons ",
-  "icon" : "src/resources/vscode.png",
-  "version": "0.0.1.test",
+  "icon" : "images/vscode.png",
+  "version": "0.0.2",
   "publisher": "AshtonSun",
   "engines": {
     "vscode": "^1.88.0"
@@ -50,6 +50,9 @@
       ]
     }
   },
+  "files": [
+
+  ],
   "scripts": {
     "vscode:prepublish": "npm run package",
     "compile": "webpack",

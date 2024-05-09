@@ -78,11 +78,11 @@ function getWebviewContent(webview: vscode.Webview, extensionPath: string) {
     return newContent;
   }
   // 从 codicon.html 中获取 html 内容
-  const resourcePath = vscode.Uri.file(path.join(extensionPath, 'src/resources/codicon/codicon.html'));
-  const ttfUri = vscode.Uri.file(path.join(extensionPath, 'src/resources/codicon/codicon.ttf'));
+  const resourcePath = vscode.Uri.file(path.join(extensionPath, 'resources/codicon/codicon.html'));
+  const ttfUri = vscode.Uri.file(path.join(extensionPath, 'resources/codicon/codicon.ttf'));
   let webttfUri = webview.asWebviewUri(ttfUri);
 
-  const cssUri = vscode.Uri.file(path.join(extensionPath, 'src/resources/codicon/codicon.css'));
+  const cssUri = vscode.Uri.file(path.join(extensionPath, 'resources/codicon/codicon.css'));
   let webcssUri = webview.asWebviewUri(cssUri);
   const filePath = resourcePath.fsPath;
 

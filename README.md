@@ -22,13 +22,13 @@ There are two ways to enter:
 
 ### 1. Click on the sidebar icon
 
-![side](src/resources/introduce/iconssidebar.png)
+![side](resources/introduce/iconssidebar.png)
 
 ### 2. with 'ctrl + shift + p' type'Icons: find'
 
-![input](src/resources/introduce/command.png)
+![input](resources/introduce/command.png)
 
-![show](src/resources/introduce/iconspanel.png)
+![show](resources/introduce/iconspanel.png)
 
 ## Known Issues
 

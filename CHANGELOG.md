@@ -18,5 +18,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Removed
 
 ### Fixed
-
-[0.0.1]: https://github.com/EvilJoker/vscode_extension_things/tree/feature_0.0.1
